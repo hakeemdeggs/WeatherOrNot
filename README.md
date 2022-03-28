@@ -8,7 +8,7 @@
 
 ### Description:
 
-WeatherOrNot is a fairly simple application created to allow users to search for the current weather of any city in the world using OpenWeather API😃
+WeatherOrNot is a fairly simple application created to allow users to search for the current weather of any city in the world using the OpenWeather API😃
 
 ### Concepts used:
 
